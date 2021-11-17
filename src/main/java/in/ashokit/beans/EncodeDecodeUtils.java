@@ -10,7 +10,8 @@ public  class EncodeDecodeUtils
 {
 
 int i=10;
-int z=30;
+int z=30;int k=30;
+int g=44;
 int j=20;
 
 }
